@@ -1,0 +1,5 @@
+{
+  "name": "TikTok Clone",
+  "description": "A full-featured TikTok clone with video feed, duet, stitch, and profile features.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
